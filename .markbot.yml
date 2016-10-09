@@ -46,6 +46,7 @@ html:
 css:
   - path: 'css/modules.css'
     valid: true
+    bestPractices: true
     search:
       - ['https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;buttons;forms;accessibility;print', 'Select all the different modules when adding Modulifier.']
 
